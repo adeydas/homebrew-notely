@@ -13,7 +13,7 @@ cask "notely" do
   end
 
   auto_updates true
-  depends_on macos: ">= 15.0"
+  depends_on macos: :sequoia
 
   app "Notely.app"
 end
