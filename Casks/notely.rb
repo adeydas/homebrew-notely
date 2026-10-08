@@ -1,6 +1,6 @@
 cask "notely" do
-  version "8.21.0,111"
-  sha256 "f7bdb386bcdeafa2a842457c6e8901011166a31be4dcb2b9e8d483d64df28d63"
+  version "8.22.0,112"
+  sha256 "7a6c3e2ce008a29111036213701c870c3349576f83f3cc53d4bce2e508e49424"
 
   url "https://notelyapp.ca/downloads/releases/#{version.csv.first}/#{version.csv.second}/Notely.dmg"
   name "Notely"
